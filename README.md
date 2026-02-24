@@ -1,1 +1,2 @@
 # Criptografia
+Trabajo realizado en la asignatura de criptografía: aplicación consistente en la creación de algún tipo de sistema de envío de mensajes seguros gracias al uso de técnicas criptográficas (autenticación a través del almacenamiento de contraseñas hasheadas, uso de claves públicas y privadas durante la comunicación, la implementación de firmas digitales y la generación de certificados según una jerarquía de autoridades certificadoras.
